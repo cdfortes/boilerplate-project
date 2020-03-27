@@ -11,3 +11,4 @@ Git clone
 2. Para rodar em produção, use `npm run build`
 3. Para iniciar o DevServer com HOT Reload, use `npm run start:dev`
 4. Desenvolva seu projeto na pasta src.
+ 
